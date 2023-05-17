@@ -108,6 +108,7 @@ https://e3wx7wloxn.zoeweb.tv/pmu8/stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-images.bloodhorse.com/i/bloodhorse-images/2018/11/8e019cf316da4bb2bb5e26a334b7df26.jpg?preset=thumbnail" tvg-group="TURF", The New York Racing Association, Inc.
 https://ythls.onrender.com/channel/UCxRmRUB3kX-X-_9YsNFhq3g.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.jcb.com.br/imagens/2015/09/LogoTV-Turfe-post.jpg" tvg-group="TURF", GAVEA BR
+https://ythls.onrender.com/channel/UCQla7pKe2GX2vp0oMrRbtSw.m3u8
 
 

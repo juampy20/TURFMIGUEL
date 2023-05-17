@@ -66,6 +66,18 @@ https://5.trstream01.xyz/canal3/stream.m3u8
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", Roberts Comunications 3
 https://2.trstream01.xyz/canal4/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", Roberts Comunications 4
+https://3.trstream01.xyz/canal2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", Roberts Comunications 5
+https://2.trstream01.xyz/canal6/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", Roberts Comunications 6
+https://3.trstream01.xyz/canal6/stream.m3u8
+
+
+
+
 
 
 

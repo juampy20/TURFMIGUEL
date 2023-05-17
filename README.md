@@ -81,6 +81,30 @@ https://1.trstream01.xyz/canal6/stream.m3u8
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", Roberts Comunications 8
 https://4.trstream01.xyz/canal6/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.farra.com.br/wp-content/uploads/2019/12/jcb.jpg" tvg-group="TURF", Jockey C BR 1
+https://e3wx7wloxn.zoeweb.tv/pmu1/stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.farra.com.br/wp-content/uploads/2019/12/jcb.jpg" tvg-group="TURF", Jockey C BR 2
+https://e3wx7wloxn.zoeweb.tv/pmu2/stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.farra.com.br/wp-content/uploads/2019/12/jcb.jpg" tvg-group="TURF", Jockey C BR 3
+https://e3wx7wloxn.zoeweb.tv/pmu3/stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.farra.com.br/wp-content/uploads/2019/12/jcb.jpg" tvg-group="TURF", Jockey C BR 4
+https://e3wx7wloxn.zoeweb.tv/pmu4/stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.farra.com.br/wp-content/uploads/2019/12/jcb.jpg" tvg-group="TURF", Jockey C BR 5
+https://e3wx7wloxn.zoeweb.tv/pmu5/stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.farra.com.br/wp-content/uploads/2019/12/jcb.jpg" tvg-group="TURF", Jockey C BR 6
+https://e3wx7wloxn.zoeweb.tv/pmu6/stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.farra.com.br/wp-content/uploads/2019/12/jcb.jpg" tvg-group="TURF", Jockey C BR 7
+https://e3wx7wloxn.zoeweb.tv/pmu7/stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.farra.com.br/wp-content/uploads/2019/12/jcb.jpg" tvg-group="TURF", Jockey C BR 8
+https://e3wx7wloxn.zoeweb.tv/pmu8/stream/chunklist.m3u8
+
 
 
 

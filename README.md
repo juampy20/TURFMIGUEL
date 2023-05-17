@@ -75,9 +75,11 @@ https://2.trstream01.xyz/canal6/stream.m3u8
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", Roberts Comunications 6
 https://3.trstream01.xyz/canal6/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", Roberts Comunications 7
+https://1.trstream01.xyz/canal6/stream.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", Roberts Comunications 8
+https://4.trstream01.xyz/canal6/stream.m3u8
 
 
 

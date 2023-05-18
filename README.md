@@ -57,28 +57,28 @@ https://ythls.onrender.com/channel/UCQri-Fx58rGoxFTUfCAXfYw.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Jack_Thistledown_Racino_Logo.jpg" tvg-group="TURF", Jack Thistledown
 https://ythls.onrender.com/channel/UCNhciVK31Coupj7VpFrQSZA.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", Roberts Comunications 1
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", 1
 https://5.trstream01.xyz/canal6/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", Roberts Comunications 2
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", 2
 https://5.trstream01.xyz/canal3/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", Roberts Comunications 3
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", 3
 https://2.trstream01.xyz/canal4/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", Roberts Comunications 4
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", 4
 https://3.trstream01.xyz/canal2/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", Roberts Comunications 5
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", Roberts 5
 https://2.trstream01.xyz/canal6/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", Roberts Comunications 6
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", Roberts 6
 https://3.trstream01.xyz/canal6/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", Roberts Comunications 7
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", Roberts 7
 https://1.trstream01.xyz/canal6/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", Roberts Comunications 8
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQH_1hC5qB2_zw/company-logo_200_200/0/1625936095062?e=2147483647&v=beta&t=QSS4HRqv1ngYQ3-X4AhoDoGxQ9pZMgxBJN2mDiPF-p0" tvg-group="TURF", Roberts 8
 https://4.trstream01.xyz/canal6/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.farra.com.br/wp-content/uploads/2019/12/jcb.jpg" tvg-group="TURF", Jockey C BR 1
